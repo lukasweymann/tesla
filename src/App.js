@@ -43,7 +43,7 @@ function App() {
       backgroundImg={Model3}
       leftBtnTxt='CUSTOM ORDER'
       leftBtnLink=''
-      rightBtnLink='LEARN MORE'
+      rightBtnTxt='LEARN MORE'
       twoButtons='true'
       />
       <Item
@@ -52,7 +52,7 @@ function App() {
       backgroundImg={ModelX}
       leftBtnTxt='CUSTOM ORDER'
       leftBtnLink=''
-      rightBtnLink='LEARN MORE'
+      rightBtnTxt='LEARN MORE'
       twoButtons='true'
       />
       <Item
@@ -61,7 +61,7 @@ function App() {
       backgroundImg={ModelY}
       leftBtnTxt='CUSTOM ORDER'
       leftBtnLink=''
-      rightBtnLink='LEARN MORE'
+      rightBtnTxt='LEARN MORE'
       twoButtons='true'
       />
       <Item
@@ -70,7 +70,7 @@ function App() {
       backgroundImg={SolarRoof}
       leftBtnTxt='ORDER NOW'
       leftBtnLink=''
-      rightBtnLink='LEARN MORE'
+      rightBtnTxt='LEARN MORE'
       twoButtons='true'
       />
       <Item
@@ -79,7 +79,7 @@ function App() {
       backgroundImg={Accesories}
       leftBtnTxt='SHOP NOW'
       leftBtnLink=''
-      rightBtnLink='LEARN MORE'
+      rightBtnTxt='LEARN MORE'
       twoButtons='true'
       />
       </div>
